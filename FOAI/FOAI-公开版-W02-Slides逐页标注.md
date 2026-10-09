@@ -12,8 +12,8 @@ tags:
   - 课堂标注
 source: 课程材料（Conor Houghton、Roberto Colomboni）的个人非官方翻译与学习笔记
 original: https://github.com/semtm0051/2026_27
-status: draft
-publication: pending
+status: published
+publication: public
 updated: 2026-10-09
 ---
 
