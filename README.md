@@ -10,7 +10,7 @@
 - [标准差与标准误：它们在描述谁的波动？](SCEM-公开版-标准差与标准误的区别.md)
 - [用盒子抽数理解抽样分布](SCEM-公开版-用盒子抽数理解抽样分布.md)
 
-**FOAI（Foundations of Artificial Intelligence）课程笔记**：[FOAI/](FOAI/README.md)：W01–W04 的中文翻译、Slides 逐页标注与 Lab 笔记，经讲师同意公开，非官方材料。
+**FOAI（Foundations of Artificial Intelligence）课程笔记**：[FOAI/](FOAI/README.md)：W01–W05（W05 反向传播与 PyTorch 实验，2026-10-27 更新）的中文翻译、Slides 逐页标注与 Lab 笔记，经讲师同意公开，非官方材料。
 
 ## 内容与来源
 

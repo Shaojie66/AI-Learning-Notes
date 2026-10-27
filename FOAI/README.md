@@ -1,6 +1,6 @@
 # FOAI｜Foundations of Artificial Intelligence 中文学习笔记
 
-University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026/27）」课程的个人中文翻译与学习笔记，覆盖 Week 1–4。
+University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026/27）」课程的个人中文翻译与学习笔记，覆盖 Week 1–5（W05 于 2026-10-27 发布）。
 
 > [!IMPORTANT]
 > **非官方材料**：这些是我个人的非官方翻译与笔记，**不是官方课程材料**，可能有错漏，一切以官方原文为准。
@@ -15,6 +15,7 @@ University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026
 | W02 | [线性回归](FOAI-公开版-W02-线性回归.md)；[线性回归图解阅读笔记](FOAI-公开版-W02-线性回归图解阅读笔记.md) | [W02 Slides](FOAI-公开版-W02-Slides逐页标注.md) | [PyTorch 入门](FOAI-公开版-W02-PyTorch入门.md) |
 | W03 | [线性分类](FOAI-公开版-W03-线性分类.md) | [W03 Slides](FOAI-公开版-W03-Slides逐页标注.md) | [PyTorch 线性回归实验](FOAI-公开版-W03-PyTorch线性回归实验.md) |
 | W04 | [神经网络](FOAI-公开版-W04-神经网络.md) | — | [PyTorch 线性分类实验](FOAI-公开版-W04-PyTorch线性分类实验.md) |
+| W05 | [反向传播](FOAI-公开版-W05-反向传播.md) | — | [用 PyTorch 搭建并拟合神经网络](FOAI-公开版-W05-PyTorch神经网络实验.md) |
 
 初学者建议从「线性回归图解阅读笔记」开始，它从零讲起，图也最多。
 
