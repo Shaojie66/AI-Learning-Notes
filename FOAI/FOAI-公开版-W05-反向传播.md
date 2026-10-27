@@ -13,7 +13,7 @@ tags:
   - 计算图
   - autograd
   - 梯度下降
-source: 课程材料（Roberto Colomboni）的个人非官方翻译与学习笔记
+source: 课程材料的个人非官方翻译与学习笔记
 original: https://github.com/semtm0051/2026_27
 status: published
 publication: public
@@ -24,11 +24,11 @@ updated: 2026-10-27
 # FOAI W05｜反向传播（Backpropagation）
 
 > [!IMPORTANT]
-> **非官方学习笔记**：这是我在 University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026/27）」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
-> 原课程材料作者：Roberto Colomboni。原始材料：[semtm0051/2026_27](https://github.com/semtm0051/2026_27/tree/12af5a9ea0650b35590f2f0f9f9bb6785a7593d6)。经讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
+> **非官方学习笔记**：这是我在「Foundations of Artificial Intelligence」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
+> 原课程材料作者：课程讲师。原始材料：[官方课程仓库](https://github.com/semtm0051/2026_27/tree/12af5a9ea0650b35590f2f0f9f9bb6785a7593d6)。经讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
 
 > [!NOTE] 资料范围与可靠度：high
-> 一手讲义：[`Week_05/Notes/Week_05 - Backpropagation.pdf`](https://github.com/semtm0051/2026_27/blob/12af5a9ea0650b35590f2f0f9f9bb6785a7593d6/Week_05/Notes/Week_05%20-%20Backpropagation.pdf)（讲师 Roberto Colomboni）。
+> 一手讲义：[`Week_05/Notes/Week_05 - Backpropagation.pdf`](https://github.com/semtm0051/2026_27/blob/12af5a9ea0650b35590f2f0f9f9bb6785a7593d6/Week_05/Notes/Week_05%20-%20Backpropagation.pdf)（课程讲师）。
 > 配套一手 Slides：[`Week_05/Slides/Week_05 - Slides.pdf`](https://github.com/semtm0051/2026_27/blob/12af5a9ea0650b35590f2f0f9f9bb6785a7593d6/Week_05/Slides/Week_05%20-%20Slides.pdf)（Lecture 5）。
 > 配套一手 Lab：[`Week_05/Lab/Week_05_nns_in_pytorch.ipynb`](https://github.com/semtm0051/2026_27/blob/12af5a9ea0650b35590f2f0f9f9bb6785a7593d6/Week_05/Lab/Week_05_nns_in_pytorch.ipynb)。
 > 公式编号 (n) 沿用讲义，便于对照。标注为「补充说明」的部分是我为入门加的解释，不是讲义原文。

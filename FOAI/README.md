@@ -1,11 +1,11 @@
 # FOAI｜Foundations of Artificial Intelligence 中文学习笔记
 
-University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026/27）」课程的个人中文翻译与学习笔记，覆盖 Week 1–5（W05 于 2026-10-27 发布）。
+「Foundations of Artificial Intelligence」课程的个人中文翻译与学习笔记，覆盖 Week 1–5（W05 于 2026-10-27 发布）。
 
 > [!IMPORTANT]
 > **非官方材料**：这些是我个人的非官方翻译与笔记，**不是官方课程材料**，可能有错漏，一切以官方原文为准。
-> 原课程材料作者：Conor Houghton、Roberto Colomboni。原始材料：[semtm0051/2026_27](https://github.com/semtm0051/2026_27)（笔记对照的版本固定在提交 [`322787d`](https://github.com/semtm0051/2026_27/tree/322787dec91f174303ccf90399bb6243a060eb7d)）。
-> 经两位讲师同意公开。按讲师要求，本目录**不含练习解答**，也不含课堂录像等非公开材料；需要答案时请看官方仓库。
+> 原课程材料作者：课程讲师。原始材料：[官方课程仓库](https://github.com/semtm0051/2026_27)（笔记对照的版本固定在提交 [`322787d`](https://github.com/semtm0051/2026_27/tree/322787dec91f174303ccf90399bb6243a060eb7d)）。
+> 经课程讲师同意公开。按讲师要求，本目录**不含练习解答**，也不含课堂录像等非公开材料；需要答案时请看官方仓库。
 
 ## 阅读入口
 

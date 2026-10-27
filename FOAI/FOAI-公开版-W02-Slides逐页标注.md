@@ -10,7 +10,7 @@ tags:
   - 线性回归
   - 梯度下降
   - 课堂标注
-source: 课程材料（Conor Houghton、Roberto Colomboni）的个人非官方翻译与学习笔记
+source: 课程材料的个人非官方翻译与学习笔记
 original: https://github.com/semtm0051/2026_27
 status: published
 publication: public
@@ -20,19 +20,19 @@ updated: 2026-10-09
 # FOAI W02｜课堂 Slides 逐页标注（缺课自学版）
 
 > [!IMPORTANT]
-> **非官方学习笔记**：这是我在 University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026/27）」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
-> 原课程材料作者：Conor Houghton、Roberto Colomboni。原始材料：[semtm0051/2026_27](https://github.com/semtm0051/2026_27/tree/322787dec91f174303ccf90399bb6243a060eb7d/)。经两位讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
+> **非官方学习笔记**：这是我在「Foundations of Artificial Intelligence」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
+> 原课程材料作者：课程讲师。原始材料：[官方课程仓库](https://github.com/semtm0051/2026_27/tree/322787dec91f174303ccf90399bb6243a060eb7d/)。经课程讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
 
 > [!NOTE]
 > **这份笔记是什么**
 > 逐页对应 [`Week_02/Slides/Week_02 - Slides.pdf`](https://github.com/semtm0051/2026_27/blob/322787dec91f174303ccf90399bb6243a060eb7d/Week_02/Slides/Week_02%20-%20Slides.pdf)（共 49 页），
 > 把 PPT 上的英文术语翻成中文、补上直觉和简单证明。
 > 它和 [FOAI-W02-线性回归](FOAI-公开版-W02-线性回归.md)（基于 Notes 讲义的教材式整理）互补：那份按逻辑脉络写，这份按你回看 PPT 的顺序写。
-> 上课老师：**Dr Roberto Colomboni**，2026/27 学年 Lecture 2。
+> 本讲由课程讲师讲授（Lecture 2）。
 
 > [!TIP]
 > **一个贯穿全课的套路**
-> Colomboni 在这门课反复强调：**所有模型都是同一个三步流程**——
+> 课程讲师在这门课反复强调：**所有模型都是同一个三步流程**——
 > ① 选函数族 $\{f_\theta\}$ → ② 选损失 $\ell$ → ③ 最小化经验损失 $\mathcal{L}(\theta)=\sum_i \ell(f_\theta(x_i),y_i)$。
 > 今天线性回归是这个母版的第一个实例，后面分类、神经网络全是换损失、换函数族。
 
@@ -41,7 +41,7 @@ updated: 2026-10-09
 ## P.0 标题页
 
 - **Lecture 2: Linear regression**。本讲只讲回归（预测连续数值），不讲分类。
-- 讲师：Dr Roberto Colomboni（三位老师之一，负责前几周的线性模型部分）。
+- 讲师：课程讲师（负责前几周的线性模型部分）。
 
 ## P.1–2 本讲目录
 
@@ -483,7 +483,7 @@ $$\nabla\mathcal{L}=2X^\top(X\theta-y), \qquad \boxed{\theta^*=(X^\top X)^{-1}X^
 
 ### P.49 结尾页
 
-- 讲义和习题在课程 GitHub：`github.com/semtm0051/2026_27`
+- 讲义和习题见官方课程仓库（按周目录组织）。
 - 习题解答会在下一次课前公布。
 
 ---

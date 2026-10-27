@@ -9,7 +9,7 @@ tags:
   - FOAI
   - notebook
   - 中英对照
-source: 课程材料（Conor Houghton、Roberto Colomboni）的个人非官方翻译与学习笔记
+source: 课程材料的个人非官方翻译与学习笔记
 original: https://github.com/semtm0051/2026_27
 status: published
 publication: public
@@ -19,8 +19,8 @@ updated: 2026-10-09
 # Python classes（Python 类，第 1 部分）
 
 > [!IMPORTANT]
-> **非官方学习笔记**：这是我在 University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026/27）」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
-> 原课程材料作者：Conor Houghton、Roberto Colomboni。原始材料：[semtm0051/2026_27](https://github.com/semtm0051/2026_27/tree/322787dec91f174303ccf90399bb6243a060eb7d/)。经两位讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
+> **非官方学习笔记**：这是我在「Foundations of Artificial Intelligence」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
+> 原课程材料作者：课程讲师。原始材料：[官方课程仓库](https://github.com/semtm0051/2026_27/tree/322787dec91f174303ccf90399bb6243a060eb7d/)。经课程讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
 
 > **Week 1 · Python refresher · Notebook 2 of 2 · Classes, part 1**
 > 第 1 周 · Python 复习 · 第 2/2 个 notebook · 类（上）

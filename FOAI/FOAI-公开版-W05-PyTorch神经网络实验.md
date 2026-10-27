@@ -11,7 +11,7 @@ tags:
   - PyTorch
   - autograd
   - 梯度下降
-source: 课程材料（Roberto Colomboni）的个人非官方翻译与学习笔记
+source: 课程材料的个人非官方翻译与学习笔记
 original: https://github.com/semtm0051/2026_27
 status: published
 publication: public
@@ -22,8 +22,8 @@ updated: 2026-10-27
 # FOAI W05 Lab｜用 PyTorch 搭建并拟合神经网络
 
 > [!IMPORTANT]
-> **非官方学习笔记**：这是我在 University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026/27）」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
-> 原课程材料作者：Roberto Colomboni。原始材料：[semtm0051/2026_27](https://github.com/semtm0051/2026_27/tree/12af5a9ea0650b35590f2f0f9f9bb6785a7593d6)。经讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
+> **非官方学习笔记**：这是我在「Foundations of Artificial Intelligence」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
+> 原课程材料作者：课程讲师。原始材料：[官方课程仓库](https://github.com/semtm0051/2026_27/tree/12af5a9ea0650b35590f2f0f9f9bb6785a7593d6)。经讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
 
 > [!NOTE]
 > **实验文件**

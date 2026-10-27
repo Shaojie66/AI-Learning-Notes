@@ -11,7 +11,7 @@ tags:
   - logistic回归
   - softmax
   - 课堂标注
-source: 课程材料（Conor Houghton、Roberto Colomboni）的个人非官方翻译与学习笔记
+source: 课程材料的个人非官方翻译与学习笔记
 original: https://github.com/semtm0051/2026_27
 status: published
 publication: public
@@ -21,8 +21,8 @@ updated: 2026-10-09
 # FOAI W03｜课堂 Slides 逐页标注（零基础版）
 
 > [!IMPORTANT]
-> **非官方学习笔记**：这是我在 University of Bristol「Foundations of Artificial Intelligence（SEMTM0051, 2026/27）」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
-> 原课程材料作者：Conor Houghton、Roberto Colomboni。原始材料：[semtm0051/2026_27](https://github.com/semtm0051/2026_27/tree/322787dec91f174303ccf90399bb6243a060eb7d/)。经两位讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
+> **非官方学习笔记**：这是我在「Foundations of Artificial Intelligence」课程中的个人中文翻译与学习笔记，**不是官方课程材料**，可能有错漏，以官方原文为准。
+> 原课程材料作者：课程讲师。原始材料：[官方课程仓库](https://github.com/semtm0051/2026_27/tree/322787dec91f174303ccf90399bb6243a060eb7d/)。经课程讲师同意公开；不含练习解答与非公开材料（如课堂录像）。
 
 > [!NOTE]
 > **这份笔记是什么**
@@ -118,7 +118,7 @@ $$\frac{\partial}{\partial\theta}G(\sigma(F(\theta)))=G'(\sigma(F))\cdot\sigma'(
 
 ### 开场（第 1–2 页）
 
-**P.1 标题页**：Lecture 3: Linear classification，讲师 Dr Roberto Colomboni。
+**P.1 标题页**：Lecture 3: Linear classification，课程讲师。
 
 **P.2 目录**：四块：① Binary classification（二分类）② Classification error and logistic loss（分类误差与 logistic 损失）③ Gradient descent（梯度下降）④ More than two classes（多于两类）。第 11、20、44 页是同样目录页，用来分隔四块。
 
